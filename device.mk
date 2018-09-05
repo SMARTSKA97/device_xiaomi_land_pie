@@ -498,3 +498,6 @@ PRODUCT_COPY_FILES += \
  $(LOCAL_PATH)/system/lib64/libkeystore_binder.so:system/lib64/libkeystore_binder.so \
  $(LOCAL_PATH)/system/lib64/libkeystore-engine.so:system/lib64/libkeystore-engine.so
 
+PRODUCT_PACKAGES += \
+    Mixplorer \
+    Ruthless Launcher
